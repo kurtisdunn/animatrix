@@ -1,8 +1,8 @@
 {
   "name": "animatrix",
-  "displayName": "Matrix Reloaded",
+  "displayName": "Matrix Styled Theme",
   "publisher": "KurtDunn",
-  "description": "Matrix Styled Theme. Feedback is welcome on the github repo.",
+  "description": "Complete VSCode theme based on the Matrix movie",
   "icon": "icon.jpg",
   "version": "0.0.3",
   "engines": {
