@@ -1,10 +1,10 @@
 {
   "name": "animatrix",
-  "displayName": "Animatrix",
+  "displayName": "Matrix Theme",
   "publisher": "KurtDunn",
-  "description": "Matrix Styled Theme",
+  "description": "Matrix Styled Theme. Feedback is welcome on the github repo.",
   "icon": "icon.jpg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.82.0"
   },
